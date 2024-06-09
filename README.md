@@ -1,5 +1,7 @@
 # Sample Function: PHP "Hello World"
 
+CVE-2024-4577
+
 ## Introduction
 
 This repository contains a sample "Hello World" function written in PHP. You can deploy it on DigitalOcean's App Platform as a Serverless Function component or as a standalone Function. Documentation is available at https://docs.digitalocean.com/products/functions.
